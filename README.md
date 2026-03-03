@@ -1,2 +1,4 @@
-# Detection-operators
-This project performs point, edge, and line detection on an image using OpenCV in Python. It uses Laplacian for point detection and Prewitt &amp; Sobel operators for edge detection. Canny edge detection and Hough Transform are applied to detect and draw lines on the image.
+This project performs point, edge, and line detection on images using OpenCV in Python.
+It applies Laplacian for point detection and Prewitt & Sobel operators for edge detection.
+Canny edge detection and Hough Transform are used for line detection.
+The program displays results at each stage for visual comparison and analysis.
